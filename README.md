@@ -4,7 +4,7 @@ A modern, animated statistics showcase component built with pure HTML, CSS, and 
 
 ## Live Demo
 
-https://thisislefa.github.io/statgrid-pro
+https://thisislefa.github.io/StatGrid-Pro
 
 ## Features
 
@@ -27,4 +27,5 @@ https://thisislefa.github.io/statgrid-pro
 1. **Clone the repository**
    ```bash
    git clone https://github.com/thisislefa/statgrid-pro.git
+
 
