@@ -367,23 +367,6 @@ npm run test:e2e       # End-to-end tests
 npm run test:coverage
 ```
 
-## Documentation
-
-### API Documentation
-Comprehensive API documentation is available in the `/docs` directory:
-- [Component API](docs/api.md)
-- [Styling Guide](docs/styling.md)
-- [Animation API](docs/animations.md)
-- [Accessibility Guide](docs/accessibility.md)
-
-### Examples
-Check the `/examples` directory for implementation examples:
-- Basic usage
-- Framework integration
-- Dynamic content
-- Theming examples
-- Performance optimizations
-
 ## Community & Support
 
 ### Get Help
@@ -411,3 +394,4 @@ Stratagem is released under the [MIT License](LICENSE). You are free to use, mod
 ---
 
 **Ready to contribute?** Check out our [Contributing Guide](CONTRIBUTING.md) for detailed instructions and join our community of developers building amazing web experiences together.
+
