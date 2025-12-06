@@ -380,18 +380,13 @@ npm run test:coverage
 - **Changelog**: Review breaking changes and new features
 - **Twitter**: Follow [@thisislefa](https://twitter.com/thisislefa) for announcements
 
-### Code of Conduct
-Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating. We're committed to providing a welcoming and inclusive environment for all contributors.
-
 ## License
-Stratagem is released under the [MIT License](LICENSE). You are free to use, modify, and distribute this component in personal and commercial projects.
+Stratagem is released under the MIT LIcense. You are free to use, modify, and distribute this component in personal and commercial projects.
 
 ## Acknowledgments
 - Built by [Lefa](https://github.com/thisislefa)
 - Inspired by modern dashboard design patterns
 - Thanks to all contributors and the open source community
 
----
 
-**Ready to contribute?** Check out our [Contributing Guide](CONTRIBUTING.md) for detailed instructions and join our community of developers building amazing web experiences together.
 
