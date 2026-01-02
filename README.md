@@ -4,7 +4,7 @@
 Stratagem is an advanced statistics visualization component featuring an intelligent CSS Grid layout with intersection-based animated counters. Designed as a modular web component, it combines sophisticated design with performant animations for showcasing metrics and strategic partnerships.
 
 ## Live Preview
-[View Live Demo](https://thisislefa.github.io/Stratagem)
+[View Live Demo](https://lefajmofokeng.github.io/Stratagem)
 
 ## Technical Architecture
 
@@ -36,12 +36,12 @@ Stratagem is an advanced statistics visualization component featuring an intelli
 
 ### NPM Package
 ```bash
-npm install @thisislefa/stratagem
+npm install @lefajmofokeng/stratagem
 ```
 
 ```javascript
 // ES6 Import
-import { StratagemComponent } from '@thisislefa/stratagem';
+import { StratagemComponent } from '@lefajmofokeng/stratagem';
 import '@thisislefa/stratagem/dist/stratagem.css';
 
 // Register the component
@@ -82,7 +82,7 @@ function App() {
 </template>
 
 <script setup>
-import { StratagemComponent } from '@thisislefa/stratagem/vue';
+import { StratagemComponent } from '@lefajmofokeng/stratagem/vue';
 
 const headline = 'More than a service. A strategic design partner.';
 const stats = [
@@ -95,7 +95,7 @@ const stats = [
 #### Angular
 ```typescript
 import { Component } from '@angular/core';
-import { StratagemModule } from '@thisislefa/stratagem/angular';
+import { StratagemModule } from '@lefajmofokeng/stratagem/angular';
 
 @Component({
   selector: 'app-dashboard',
@@ -226,10 +226,10 @@ stratagem-component::part(header) {
 ### Bundle Optimization
 ```javascript
 // Tree-shaking with ES modules
-import { StatAnimation, GridLayout } from '@thisislefa/stratagem/core';
+import { StatAnimation, GridLayout } from '@lefajmofokeng/stratagem/core';
 
 // Lazy loading
-const StratagemComponent = () => import('@thisislefa/stratagem');
+const StratagemComponent = () => import('@lefajmofokeng/stratagem');
 
 // Dynamic imports for specific features
 if ('IntersectionObserver' in window) {
@@ -271,7 +271,7 @@ if ('IntersectionObserver' in window) {
 ### Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/thisislefa/stratagem.git
+git clone https://github.com/lefajmofokeng/stratagem.git
 cd stratagem
 
 # Install dependencies
@@ -378,15 +378,16 @@ npm run test:coverage
 ### Stay Updated
 - **GitHub Releases**: Follow releases for updates
 - **Changelog**: Review breaking changes and new features
-- **Twitter**: Follow [@thisislefa](https://twitter.com/thisislefa) for announcements
+- **Twitter**: Follow [@thisislefa](https://twitter.com/lefajmofokeng) for announcements
 
 ## License
 Stratagem is released under the MIT LIcense. You are free to use, modify, and distribute this component in personal and commercial projects.
 
 ## Acknowledgments
-- Built by [Lefa](https://github.com/thisislefa)
+- Built by [Lefa](https://github.com/lefajmofokeng)
 - Inspired by modern dashboard design patterns
 - Thanks to all contributors and the open source community
+
 
 
 
