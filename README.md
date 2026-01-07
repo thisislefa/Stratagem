@@ -2,6 +2,7 @@
 
 ## Project Overview
 Stratagem is an advanced statistics visualization component featuring an intelligent CSS Grid layout with intersection-based animated counters. Designed as a modular web component, it combines sophisticated design with performant animations for showcasing metrics and strategic partnerships.
+<img width="1920" height="1108" alt="stratagem" src="https://github.com/user-attachments/assets/bb3ab4bd-c14c-48ec-929e-96e1002b1457" />
 
 ## Live Preview
 [View Live Demo](https://lefajmofokeng.github.io/Stratagem)
@@ -387,6 +388,7 @@ Stratagem is released under the MIT LIcense. You are free to use, modify, and di
 - Built by [Lefa](https://github.com/lefajmofokeng)
 - Inspired by modern dashboard design patterns
 - Thanks to all contributors and the open source community
+
 
 
 
